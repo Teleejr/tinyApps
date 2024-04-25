@@ -1,0 +1,31 @@
+body {
+    background-color: black;
+}
+table {
+    border: 2px navy;
+    border-radius: 5px;
+    background-color: slategray;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+input[type="text"] {
+    padding: 20px 50px;
+    font-size: 18;
+    font-weight: bold;
+    border: none;
+    border-radius: 5px;
+    border: 2px navy;
+    background-color: navy;
+    color: whitesmoke;
+}
+input[type="button"] {
+    width: 100%;
+    padding: 20px 40px;
+    background-color: navy;
+    color: slategray;
+    font-size: 18;
+    font-weight: bold;
+    border: none;
+    border-radius: 50%;
+}
